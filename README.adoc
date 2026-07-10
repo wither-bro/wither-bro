@@ -1,0 +1,69 @@
+= 📇 WITHER-BRO | DIGITAL BUSINESS CARD
+:toc: macro
+:toc-title: Quick Navigation
+:icons: font
+
+[.red]
+image:https://shields.io[Status]
+image:https://shields.io[Role]
+image:https://shields.io_|_C_|_LUA-red?style=for-the-badge[Tech]
+
+***
+
+== 🔴 ABOUT ME
+
+[IMPORTANT]
+====
+Hello, world! I am an independent software developer. I am a native Russian speaker, but I use English to communicate with the global GitHub community. 
+====
+
+I enjoy breaking code, building automation scripts, and crafting custom software solutions from scratch.
+
+***
+
+== 🚀 TOP REPOSITORIES
+
+Here is the showcase of my best open-source projects:
+
+[cols="1,3", options="header"]
+|===
+
+| Project | Description
+
+| `*GuardPy*` 
+| *[My Favorite]* Highly optimized backend system built with a hardcore tech stack: *Go, Zig, C, and C++*. 
+
+| `*VulludWIN-Antivirus*` 
+| *[Top 2]* A standalone antivirus solution designed specifically for Windows environments to track and eliminate threats.
+
+| `*CustKareGK*` 
+| *[Windows Customizer]* A tool to tweak and customize Windows OS. Note: *It might be unstable right now, but the underlying codebase is 100% real and authentic.*
+|===
+
+***
+
+== ⚡ IN DEVELOPMENT (UPCOMING PROJECTS)
+
+[CAUTION]
+====
+*System Core Loading...* I am currently working on cross-platform extensions compatible with *Windows, Linux, and macOS*.
+====
+
+* 🤖 `*ROBOTICER*` — A specialized operating system architecture designed for next-gen robotics.
+* 🔮 `*xNane*` — Next-level system utility framework.
+
+***
+
+== ❤️ SUPPORT MY WORK
+
+If you like what I do and want to fuel my upcoming projects, feel free to support me:
+
+* 👤 Click the *[Follow]* button on my profile.
+* ⭐ Drop a *[Star]* on any repository you find useful.
+
+***
+
+[.red]
+====
+_That is all for now. Goodbye, everyone!_ 👋
+====
